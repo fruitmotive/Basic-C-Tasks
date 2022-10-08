@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1540745835 source:c:\users\vlad\desktop\Прога\6\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1541484924 source:c:\users\vlad\desktop\Прога\Перевод систем счисления\main.c
+	<stdio.h>
+	<stdlib.h>
+

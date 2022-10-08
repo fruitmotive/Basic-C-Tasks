@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540884380 source:c:\users\vlad\desktop\Прога\Метод хорд\main.c
+	<stdio.h>
+	<math.h>
+

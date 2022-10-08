@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1548852730 source:c:\users\vlad\desktop\Прога\Грустные Танцы\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<math.h>
+

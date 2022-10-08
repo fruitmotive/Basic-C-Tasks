@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540840586 source:c:\users\vlad\desktop\Прога\Метод деления пополам\main.c
+	<stdio.h>
+	<math.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1542698231 source:c:\users\vlad\desktop\Прога\Перенос данных массива в файл.\main.c
+	<stdio.h>
+
+1543298755 source:c:\users\vlad\desktop\Прога\Перенос данных массива в файл\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+

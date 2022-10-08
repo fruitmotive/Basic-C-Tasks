@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1539620461 source:c:\users\vlad\desktop\Прога\3\main.c
+	<stdio.h>
+	<math.h>
+

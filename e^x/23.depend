@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1537965904 source:c:\users\vlad\desktop\Прога\23\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1539069350 source:c:\users\vlad\desktop\Прога\2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1573244928 source:c:\users\vlad\desktop\Прога\1 семестр\e^x\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
